@@ -1,6 +1,6 @@
 # SeNet_2020074575KIMMINSIK
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=295CC2&text=SeNet%202020074575%20KIMMINSIK&fontSize=60&height=300&desc=React%20Study&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=295CC2&text=SeNet&fontSize=60&height=300&desc=React%20Study&descAlignY=70)
 
 # Overview
 
