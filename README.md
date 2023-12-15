@@ -8,10 +8,11 @@
 
 <br />
 
-<img src="https://blog.kakaocdn.net/dn/bIEGhy/btq0BDqfwIE/B1sB7OgCQQ4ZNWXTyZiuuk/img.png" style="width: 505px" />
-<img src="https://media.licdn.com/dms/image/D4E12AQHDRmF-dMTNSg/article-cover_image-shrink_720_1280/0/1668201137108?e=2147483647&v=beta&t=bNfXAmkRRGEkp8fFUcg-AwK_7qCqRJ5pHyJApdV1loY" style="width: 505px" />
+<img src="https://blog.kakaocdn.net/dn/bIEGhy/btq0BDqfwIE/B1sB7OgCQQ4ZNWXTyZiuuk/img.png" style="width: 405px" />
+<img src="https://media.licdn.com/dms/image/D4E12AQHDRmF-dMTNSg/article-cover_image-shrink_720_1280/0/1668201137108?e=2147483647&v=beta&t=bNfXAmkRRGEkp8fFUcg-AwK_7qCqRJ5pHyJApdV1loY" style="width: 405px" />
 
 <br />
+
 # 👨‍💻 Contributers
 
 <br />
@@ -33,6 +34,8 @@
 <br />
 
 # 🤖 기능
+
+
 
 
 # 🙋‍♀️ 느낀점
