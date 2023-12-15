@@ -4,14 +4,14 @@
 # Overview
 
 2020074575 김민식 
-인공지능2 수업을 통해 배운 SeNet 구조에 대해서 논문(Squeeze-and-Excitation Networks)을 읽고 해석, 실제 코드를 구현해보았습니다.  
-
+인공지능2 수업을 통해 배운 SeNet 구조에 대해서 논문(Squeeze-and-Excitation Networks)을 읽고 해석, 실제 코드를 구현해보았습니다.
+실습해 본 코드는 torchvision 패키지에서 제공하는 STL10 dataset을 사용하였습니다.(10개의 label을 갖으며 train dataset 5000개, test dataset 8000개로 구성됨)
+MobileNetV1 구조에 SEBlock을 적용하였으며 테스트셋 기준 정확도 약 65%, loss: 0.976369의 결과를 확인하였습니다.
 
 <br />
 
 <img src="https://blog.kakaocdn.net/dn/bIEGhy/btq0BDqfwIE/B1sB7OgCQQ4ZNWXTyZiuuk/img.png" style="width: 505px" />
 <img src="https://media.licdn.com/dms/image/D4E12AQHDRmF-dMTNSg/article-cover_image-shrink_720_1280/0/1668201137108?e=2147483647&v=beta&t=bNfXAmkRRGEkp8fFUcg-AwK_7qCqRJ5pHyJApdV1loY" style="width: 505px" />
-
 
 <br />
 
