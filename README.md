@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=295CC2&text=SeNet&fontSize=60&height=300&desc=Artificial2&descAlignY=70)
 
-# Overview
+# 📁 코드 구현
 
 2020074575 김민식 
 인공지능2 수업을 통해 배운 SeNet 구조에 대해서 논문(Squeeze-and-Excitation Networks)을 읽고 해석, 직접 코드로 구현해보았습니다.
@@ -36,8 +36,7 @@ SENet의 구조가 강력한 이유는 어떤 CNN이든 가벼운 블록의 형�
 
 <br />
 
-# 🤖 다양한 모델에 적용한 SEBLOCK 성능
-
+# 🛠 다양한 모델에 적용한 SEBLOCK 성능
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc2Ql5x%2Fbtq0BEvXGmG%2FyHkGD6ykgK76djUyR3skLk%2Fimg.png" style="width: 805px" />
 
