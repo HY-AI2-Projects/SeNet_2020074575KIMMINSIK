@@ -18,7 +18,7 @@ MobileNetV1 구조에 SEBlock을 적용하였으며 테스트셋 기준 정확�
 - 2017 ILSVRC 우승
 
 SENet은 기본적으로 네트워크 내부에서 중요한 피처에 집중하고 그 중요도를 강화하는 방식으로 작동합니다. 이를 위해 Squeeze-and-Excitation 모듈을 사용합니다.
-좀 더 자세히는 당시 NLP에 사용되고 있던 Attention의 개념을 CNN에 적용하여 Channel relationship을 기반으로 전체 피처맵에서 중요한 피처맵에 집중하는 방식입니다.
+좀 더 자세히는 당시 NLP에 사용되고 있던 Attention의 개념을 CNN에 적용하여 Channel relationship을 기반으로 전체 피처맵의 시각에서 보다 중요한 피처맵을 찾고 집중하는 방식입니다.
 SENet을 통해서 처음으로 convolution layer를 통과한 각 피처맵을 독립적으로 보는게 아닌 하나의 전체적인 문맥으로 보려는 시도를 하게 되었습니다.
 SENet의 구조가 강력한 이유는 어떤 CNN이든 가벼운 블록의 형태로 적용하면 놀라운 성능 향상을 일으킬 수 있기 때문입니다.
 
