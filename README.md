@@ -26,6 +26,7 @@ SENet의 구조가 강력한 이유는 어떤 CNN이든 가벼운 블록의 형�
 <img src="https://blog.kakaocdn.net/dn/bIEGhy/btq0BDqfwIE/B1sB7OgCQQ4ZNWXTyZiuuk/img.png" style="width: 505px" />
 <img src="https://media.licdn.com/dms/image/D4E12AQHDRmF-dMTNSg/article-cover_image-shrink_720_1280/0/1668201137108?e=2147483647&v=beta&t=bNfXAmkRRGEkp8fFUcg-AwK_7qCqRJ5pHyJApdV1loY" style="width: 505px" />
 
+
 - SENet의 주요 구성 요소는 다음과 같습니다:
 
 1. Squeeze Operation (압축 연산): 입력 피처 맵의 채널별로  Global 평균 풀링을 수행하여 채널마다 하나의 값을 얻습니다. 이를 통해 각 채널의 중요도를 나타내는 요약된 정보를 얻게 됩니다.
