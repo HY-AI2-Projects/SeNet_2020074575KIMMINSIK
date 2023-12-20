@@ -47,6 +47,11 @@ SENet의 구조가 강력한 이유는 어떤 CNN이든 가벼운 블록의 형�
 
 <br />
 
+# 👨‍💻 참조 자료
+https://www.youtube.com/watch?v=Ra-x8Mz0m60
+
+<br />
+
 # 🙋‍♀️ 느낀점
 
 ### 김민식
